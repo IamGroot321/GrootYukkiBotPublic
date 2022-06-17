@@ -2,14 +2,6 @@
 
 # Groot Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Groot Music Bot](https://github.com/TeamYukki/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
-
-* Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
-* Written from scratch, making it stable and less crashes.
-* Attractive thumbnails, fonts and images,  making experience more user-friendly and interactive.
-* Loop, Seek, Shuffle, Specific Skip, Playlists etc support
-* Global, Users, Chats Top 10 played tracks stats
-* Multi-Language support
 
 # 🌱 Deploy to Heroku
 
